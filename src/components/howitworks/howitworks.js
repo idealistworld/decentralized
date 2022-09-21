@@ -7,7 +7,7 @@ import coin from '../../images/coin.png'
 
 const Howitworks = () => {
     return (
-        <div className="howitworks-background">
+        <div id = "two-element" className="howitworks-background">
             <div className="howitworks-middle-container">
                 <div className="howitworks-middle-content">
                     <div className="card-pack">

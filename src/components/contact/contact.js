@@ -5,7 +5,7 @@ import next from '../../images/next.png'
 
 const Contact = () => {
     return (
-        <div className = "contact-background">
+        <div id = "three-element" className = "contact-background">
             <div className = "contact-middle-container">
                 <div className = "contact-middle-content">
                     <img className = "next-arrow" src={next}></img>

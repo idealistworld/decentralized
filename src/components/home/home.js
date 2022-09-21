@@ -5,7 +5,7 @@ import icons from '../../images/home-icons.png';
 
 const Home = () => {
   return (
-    <div className = "home-background">
+    <div id = "one-element" className = "home-background">
         <div className = "home-middle-container">
             <div className = "home-middle-content">
             <div className = "home-left">  
