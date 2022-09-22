@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/decentralized/static/css/main.a029d87b.css",
+    "main.js": "/decentralized/static/js/main.3900c756.js",
+    "static/js/787.7efd31bd.chunk.js": "/decentralized/static/js/787.7efd31bd.chunk.js",
+    "static/media/contact-background.png": "/decentralized/static/media/contact-background.d2f4813452532a44cc90.png",
+    "static/media/landing-background.png": "/decentralized/static/media/landing-background.8b67cc3c3169703907e3.png",
+    "static/media/home-icons.png": "/decentralized/static/media/home-icons.5db4ccd0e8ecabed00d6.png",
+    "static/media/card-background.png": "/decentralized/static/media/card-background.5fc3359b0524bac4e8b5.png",
+    "static/media/howitworks-background.png": "/decentralized/static/media/howitworks-background.5fc3359b0524bac4e8b5.png",
+    "static/media/navbar-background.png": "/decentralized/static/media/navbar-background.495d610474960795587f.png",
+    "static/media/camera.png": "/decentralized/static/media/camera.940b8331e49f52998824.png",
+    "static/media/next.png": "/decentralized/static/media/next.082c4420b8660676060f.png",
+    "static/media/coin.png": "/decentralized/static/media/coin.65978e47bb673f57c72c.png",
+    "static/media/message.png": "/decentralized/static/media/message.a4aa7e094869999a9031.png",
+    "index.html": "/decentralized/index.html",
+    "main.a029d87b.css.map": "/decentralized/static/css/main.a029d87b.css.map",
+    "main.3900c756.js.map": "/decentralized/static/js/main.3900c756.js.map",
+    "787.7efd31bd.chunk.js.map": "/decentralized/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a029d87b.css",
+    "static/js/main.3900c756.js"
+  ]
+}
